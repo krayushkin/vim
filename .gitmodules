@@ -1,0 +1,12 @@
+[submodule "pack/krayushkin/start/tagbar"]
+	path = pack/krayushkin/start/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "pack/krayushkin/start/gruvbox"]
+	path = pack/krayushkin/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/krayushkin/start/papercolor-theme"]
+	path = pack/krayushkin/start/papercolor-theme
+	url = https://github.com/NLKNguyen/papercolor-theme.git
+[submodule "pack/krayushkin/start/dracula"]
+	path = pack/krayushkin/start/dracula
+	url = https://github.com/dracula/vim.git
