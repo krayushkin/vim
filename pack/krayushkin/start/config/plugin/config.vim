@@ -4,3 +4,5 @@ color gruvbox
 set guifont=Consolas:h14:cRUSSIAN
 set termguicolors
 let g:gruvbox_improved_strings=1
+set background=dark
+set fencs=utf8,cp1251
