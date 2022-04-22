@@ -13,3 +13,6 @@
 [submodule "pack/krayushkin/start/vim-vue"]
 	path = pack/krayushkin/start/vim-vue
 	url = https://github.com/posva/vim-vue.git
+[submodule "pack/krayushkin/start/nerdtree"]
+	path = pack/krayushkin/start/nerdtree
+	url = http://github.com/preservim/nerdtree.git
