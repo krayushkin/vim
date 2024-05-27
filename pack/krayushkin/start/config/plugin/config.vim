@@ -7,3 +7,5 @@ set termguicolors
 let g:gruvbox_improved_strings=1
 set background=dark
 set fencs=utf8,cp1251
+set list
+set listchars=tab:>-
