@@ -16,3 +16,6 @@
 [submodule "pack/krayushkin/start/nerdtree"]
 	path = pack/krayushkin/start/nerdtree
 	url = http://github.com/preservim/nerdtree.git
+[submodule "pack/krayushkin/start/ctrlp"]
+	path = pack/krayushkin/start/ctrlp
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
