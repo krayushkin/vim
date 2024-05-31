@@ -9,4 +9,4 @@ set background=dark
 set fencs=utf8,cp1251
 set list
 set listchars=tab:>-
-let g:ctrlp_root_markers=['.ctrlp_root']
+let g:ctrlp_root_markers=['._ctrlp_root']
